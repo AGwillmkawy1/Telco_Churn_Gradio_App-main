@@ -1,8 +1,5 @@
 ## Telco Churn Prediction Gradio App
 
-![App Screenshot](Images/Interface.png)
-![App Screenshot](Images/Interface2.png)
-![App Screenshot](Images/Interface3.png)
 
 ## Description
 
