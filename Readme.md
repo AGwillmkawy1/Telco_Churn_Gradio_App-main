@@ -44,7 +44,7 @@ https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main.git
 2. Navigate to the project directory.
 
  ### 2. Setup Virtual Environment
-You need Python3 on your system to setup this app. Then you can clone this repo and being at the repo's root :: streamlit sales prediction app> ... follow the steps below:
+You need Python3 on your system to setup this app. Then you can clone this repo and being at the repo's root :: telco churn prediction gradio app> ... follow the steps below:
 * Windows
 ```python
     python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt 
