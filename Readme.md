@@ -51,7 +51,7 @@ Also check out my latest articles here:
 ### 1. Clone this repository to your local machine.
 Start by cloning the GitHub repository containing the Telco Churn Analysis project and the predictive app. You can do this by running the following command in your terminal:
 ```
-https://github.com/Newton23-nk/Telco_Churn_Gradio_App.git
+https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main.git
 ```
 
 2. Navigate to the project directory.
