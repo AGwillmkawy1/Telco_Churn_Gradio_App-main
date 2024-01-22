@@ -1,4 +1,7 @@
 ## Telco Churn Prediction Gradio App
+![Screenshot 2024-01-22 105828](https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main/assets/93640193/5a4711d7-68e2-4a65-83a8-5a6c91b2f4bc)
+![Screenshot 2024-01-22 105858](https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main/assets/93640193/33b51b5e-9caf-431b-aa5a-449a36267c04)
+![Screenshot 2024-01-22 105922](https://github.com/AGwillmkawy1/Telco_Churn_Gradio_App-main/assets/93640193/ef2ba178-8b08-4f98-8ba4-4863c71fc21e)
 
 
 ## Description
